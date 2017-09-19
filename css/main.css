@@ -4,6 +4,14 @@
   margin: 0 auto;
 }
 
+.big > div:first-child {
+  color: red;
+}
+
+.big > div:nth-child(2) {
+  color: green;
+}
+
 .big > div:nth-child(3) {
   color: orange;
 }
@@ -51,7 +59,3 @@
   grid-gap: .5em;
   grid-auto-rows: minmax(100px, auto);
 }
-
-/*hr {
-  border-top: 1px solid #999;
-}*/
