@@ -3,8 +3,8 @@ import { NewsList, BigCards, MidCards, SmallCards } from '../app/index.js';
 import renderer from 'react-test-renderer';
 
 /* Invariant Violation: _registerComponent(...): Target container is not a DOM element.
-this error occured when I export obove components inside the same file that is calling ReactDOM.render.
-jest.mock('react-dom') is to avoid the conflict*/
+this error occurs when I export obove components inside the same file which is calling ReactDOM.render.
+jest.mock('react-dom') is used here to avoid the conflict*/
 jest.mock('react-dom');
 
 

@@ -1,5 +1,7 @@
 
 .wrapper {
+  font: .8em "Open Sans", sans-serif;
+  font-weight: bold;
   width: 80%;
   margin: 0 auto;
 }
