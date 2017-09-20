@@ -61,3 +61,8 @@
   grid-gap: .5em;
   grid-auto-rows: minmax(100px, auto);
 }
+
+a {
+  color: inherit; /* parent div colors for links too */
+  text-decoration: inherit; /* no underline */
+}

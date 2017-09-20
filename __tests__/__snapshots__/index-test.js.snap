@@ -1,24 +1,34 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`whole webpage renders correctly BigCards renders correctly 1`] = `
+exports[`this simple webpage BigCards renders correctly 1`] = `
 <div>
   <img
     src="http://lorempixel.com/400/200/sports/undefined"
   />
-  <p />
+  <a
+    href={undefined}
+    onClick={[Function]}
+  >
+    <p />
+  </a>
 </div>
 `;
 
-exports[`whole webpage renders correctly MidCards renders correctly 1`] = `
+exports[`this simple webpage MidCards renders correctly 1`] = `
 <div>
   <img
     src="http://lorempixel.com/200/100/food/undefined"
   />
-  <p />
+  <a
+    href={undefined}
+    onClick={[Function]}
+  >
+    <p />
+  </a>
 </div>
 `;
 
-exports[`whole webpage renders correctly NewsList renders correctly 1`] = `
+exports[`this simple webpage NewsList renders correctly 1`] = `
 <div
   className="wrapper"
 >
@@ -29,25 +39,40 @@ exports[`whole webpage renders correctly NewsList renders correctly 1`] = `
       <img
         src="http://lorempixel.com/400/200/sports/1"
       />
-      <p>
-        No apologies James Taylor no right answer my scarf we are. Never getting back together candles Tree Paine all too.
-      </p>
+      <a
+        href=""
+        onClick={[Function]}
+      >
+        <p>
+          No apologies James Taylor no right answer my scarf we are. Never getting back together candles Tree Paine all too.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/400/200/sports/2"
       />
-      <p>
-        No apologies James Taylor no right answer my scarf we are. Never getting back together candles Tree Paine all too.
-      </p>
+      <a
+        href=""
+        onClick={[Function]}
+      >
+        <p>
+          No apologies James Taylor no right answer my scarf we are. Never getting back together candles Tree Paine all too.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/400/200/sports/3"
       />
-      <p>
-        No apologies James Taylor no right answer my scarf we are. Never getting back together candles Tree Paine all too.
-      </p>
+      <a
+        href=""
+        onClick={[Function]}
+      >
+        <p>
+          No apologies James Taylor no right answer my scarf we are. Never getting back together candles Tree Paine all too.
+        </p>
+      </a>
     </div>
   </div>
   <div
@@ -57,134 +82,229 @@ exports[`whole webpage renders correctly NewsList renders correctly 1`] = `
       <img
         src="http://lorempixel.com/200/100/food/0"
       />
-      <p>
-        Sad all too well presumptuous no apologies no apologies break and.
-      </p>
+      <a
+        href=""
+        onClick={[Function]}
+      >
+        <p>
+          Sad all too well presumptuous no apologies no apologies break and.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/200/100/food/1"
       />
-      <p>
-        Sad all too well presumptuous no apologies no apologies break and.
-      </p>
+      <a
+        href=""
+        onClick={[Function]}
+      >
+        <p>
+          Sad all too well presumptuous no apologies no apologies break and.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/200/100/food/2"
       />
-      <p>
-        Sad all too well presumptuous no apologies no apologies break and.
-      </p>
+      <a
+        href=""
+        onClick={[Function]}
+      >
+        <p>
+          Sad all too well presumptuous no apologies no apologies break and.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/200/100/food/3"
       />
-      <p>
-        Sad all too well presumptuous no apologies no apologies break and.
-      </p>
+      <a
+        href=""
+        onClick={[Function]}
+      >
+        <p>
+          Sad all too well presumptuous no apologies no apologies break and.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/200/100/food/4"
       />
-      <p>
-        Sad all too well presumptuous no apologies no apologies break and.
-      </p>
+      <a
+        href=""
+        onClick={[Function]}
+      >
+        <p>
+          Sad all too well presumptuous no apologies no apologies break and.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/200/100/food/5"
       />
-      <p>
-        Sad all too well presumptuous no apologies no apologies break and.
-      </p>
+      <a
+        href=""
+        onClick={[Function]}
+      >
+        <p>
+          Sad all too well presumptuous no apologies no apologies break and.
+        </p>
+      </a>
     </div>
     <div>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      </p>
+      <a
+        href=""
+        onClick={[Function]}
+      >
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </p>
+      </a>
     </div>
     <div>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      </p>
+      <a
+        href=""
+        onClick={[Function]}
+      >
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </p>
+      </a>
     </div>
     <div>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      </p>
+      <a
+        href=""
+        onClick={[Function]}
+      >
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/200/100/food/5"
       />
-      <p>
-        Sad all too well presumptuous no apologies no apologies break and.
-      </p>
+      <a
+        href="#"
+        onClick={[Function]}
+      >
+        <p>
+          Sad all too well presumptuous no apologies no apologies break and.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/200/100/food/6"
       />
-      <p>
-        Sad all too well presumptuous no apologies no apologies break and.
-      </p>
+      <a
+        href="#"
+        onClick={[Function]}
+      >
+        <p>
+          Sad all too well presumptuous no apologies no apologies break and.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/200/100/food/7"
       />
-      <p>
-        Sad all too well presumptuous no apologies no apologies break and.
-      </p>
+      <a
+        href="#"
+        onClick={[Function]}
+      >
+        <p>
+          Sad all too well presumptuous no apologies no apologies break and.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/200/100/food/8"
       />
-      <p>
-        Sad all too well presumptuous no apologies no apologies break and.
-      </p>
+      <a
+        href="#"
+        onClick={[Function]}
+      >
+        <p>
+          Sad all too well presumptuous no apologies no apologies break and.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/200/100/food/9"
       />
-      <p>
-        Sad all too well presumptuous no apologies no apologies break and.
-      </p>
+      <a
+        href="#"
+        onClick={[Function]}
+      >
+        <p>
+          Sad all too well presumptuous no apologies no apologies break and.
+        </p>
+      </a>
     </div>
     <div>
       <img
         src="http://lorempixel.com/200/100/food/10"
       />
-      <p>
-        Sad all too well presumptuous no apologies no apologies break and.
-      </p>
+      <a
+        href="#"
+        onClick={[Function]}
+      >
+        <p>
+          Sad all too well presumptuous no apologies no apologies break and.
+        </p>
+      </a>
     </div>
     <div>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      </p>
+      <a
+        href="#"
+        onClick={[Function]}
+      >
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </p>
+      </a>
     </div>
     <div>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      </p>
+      <a
+        href="#"
+        onClick={[Function]}
+      >
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </p>
+      </a>
     </div>
     <div>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      </p>
+      <a
+        href="#"
+        onClick={[Function]}
+      >
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </p>
+      </a>
     </div>
   </div>
 </div>
 `;
 
-exports[`whole webpage renders correctly SmallCards renders correctly 1`] = `
+exports[`this simple webpage SmallCards renders correctly 1`] = `
 <div>
-  <p />
+  <a
+    href={undefined}
+    onClick={[Function]}
+  >
+    <p />
+  </a>
 </div>
 `;
