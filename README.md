@@ -13,3 +13,10 @@ As request, I made a simple webpage in React, the React environment is set up us
 ## Tests
 
 Run `npm test` to run the tests with Jest.
+
+## Additional Info
+
+- Placeholder images are from  [Lorempixel](http://lorempixel.com/)
+- Some dummy texts are from [Taylor Swift Ipsum](http://www.taylorswiftipsum.com/)
+- 3 columns style is from CSS Grid, which is super awesome!
+- Links only trigger window.alert, and I just test whether the click events can be triggered for now
