@@ -8,7 +8,7 @@ As request, I made a simple webpage in React, the React environment is set up us
 - `cd react-simple-webpage`
 - `npm install` to install all the dependencies
 - `npm run dev` to fire up Webpack and a local server that will refresh automatically when the code changes.
-- `open http://localhost:8080` to view to the webpage.
+- open `http://localhost:8080` to view to the webpage.
 
 ## Tests
 
